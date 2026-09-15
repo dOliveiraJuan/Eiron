@@ -1,12 +1,1 @@
-{
-  "name":"EIRON STOCK",
-  "short_name":"EIRON STOCK",
-  "start_url":"./?v=6",
-  "display":"standalone",
-  "background_color":"#070707",
-  "theme_color":"#070707",
-  "icons":[
-    {"src":"icon-192.png","sizes":"192x192","type":"image/png"},
-    {"src":"icon-512.png","sizes":"512x512","type":"image/png"}
-  ]
-}
+{"name":"EIRON STOCK","short_name":"EIRON STOCK","start_url":"./?v=7","display":"standalone","background_color":"#070707","theme_color":"#070707","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"}]}
