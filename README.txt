@@ -1,5 +1,8 @@
-EIRON STOCK V8
+EIRON STOCK V9
 
-Arquivos para GitHub Pages: index.html, sw.js, manifest.json e os 3 arquivos de imagem.
+Estrutura enxuta:
+Dashboard · Produtos · Estoque · Vendas · Financeiro · Cadastros · Configurações.
 
-V8: abas reduzidas, personalização dentro do cadastro da peça, papelaria/embalagem globais com estoque e custo, fornecedores, tamanhos P/M/G/GG/G1/G2/G3, compras/fretes sem entrada automática de estoque, vendas com baixa, inventário por tamanho e custos em R$.
+Personalização fica dentro do cadastro da peça. Papelaria e embalagem ficam em Cadastros e aparecem dentro do Estoque, sem abas próprias. Compras/fretes e precificação ficam dentro de Financeiro.
+
+Arquivos para GitHub Pages: index.html, sw.js, manifest.json e os arquivos de imagem.
